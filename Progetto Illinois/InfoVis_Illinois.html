@@ -23,7 +23,7 @@
 
 	<script src="js/dataset.js"></script> <!-- Datasets dei distretti -->
 
-	<script src="http://d3js.org/d3.v5.min.js"></script> <!-- D3.js versione 5 -->
+	<script src="https://d3js.org/d3.v5.min.js"></script> <!-- D3.js versione 5 -->
 
 	<!-- Inizio scala colore laterale -->
 	<div class="container" style="top: 150px; left: 50px; z-index: 1;">
@@ -423,7 +423,7 @@
 	</script>
 
 	<!-- Inizio sezione Bar Chart -->
-	<script src="http://d3js.org/d3.v5.min.js"></script>
+	<script src="https://d3js.org/d3.v5.min.js"></script>
 
 	<script>
 
@@ -493,7 +493,7 @@
 						{Race: "Woman", Population: (totaliFermiDistretti.donne/totaliFermiDistretti.totale)*100, Color: "red"}
 					];
 
-		console.log(getMax(distretti));
+		//console.log(getMax(distretti));
 
 		/* Ritorna il valore più alto di un array di oggetti */
 		function getMax(barData) {
@@ -641,8 +641,8 @@
 
 		/* Visualizzazione di default del Bar Chart (popolazione intero Illinois) */
 		showBar(barData_default, barDataFermi_default, "All Distrects");
-		console.log(barData_default);
-		console.log(barDataFermi_default);
+		//console.log(barData_default);
+		//console.log(barDataFermi_default);
 
 		/* Aggiornamento dati Bar Chart */
 		function updateBarChart(data, data2, distName) {
