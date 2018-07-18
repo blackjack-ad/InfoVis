@@ -26,7 +26,7 @@
 
 		var DIST1_fermi = {id: "DIST1_fermi", totale: 147521, bianchi: 116922, neri: 18201, ispanici: 9686, asiatici: 2712, uomini: 97604, donne: 50230};
 		var DIST2_fermi = {id: "DIST2_fermi", totale: 264959, bianchi: 169797, neri: 39585, ispanici: 50190, asiatici: 1387, uomini: 201906, donne: 63815};
-		var DIST3_fermi = {id: "DIST3_fermi", totale: 373639, bianchi: 210546, neri: 71600, ispanici: 74840, asiatici: 16653, uomini: 364496, donne: 110366};
+		var DIST3_fermi = {id: "DIST3_fermi", totale: 373639, bianchi: 210546, neri: 71600, ispanici: 74840, asiatici: 16653, uomini: 264496, donne: 110366};
 		var DIST4_fermi = {id: "DIST4_fermi", totale: 72500, bianchi: 39900, neri: 15200, ispanici: 12400, asiatici: 5000, uomini: 50300, donne: 22600};
 		var DIST5_fermi = {id: "DIST5_fermi", totale: 190868, bianchi: 128496, neri: 35312, ispanici: 22393, asiatici: 4667, uomini: 139566, donne: 51668};
 		var DIST6_fermi = {id: "DIST6_fermi", totale: 186445, bianchi: 139081, neri: 30013, ispanici: 11764, asiatici: 5587, uomini: 133619, donne: 53268};
@@ -38,7 +38,7 @@
 		var DIST12_fermi = {id: "DIST12_fermi", totale: 237257, bianchi: 198287, neri: 27541, ispanici: 8022, asiatici: 3407, uomini: 164708, donne: 72947};
 		var DIST13_fermi = {id: "DIST13_fermi", totale: 245741, bianchi: 207372, neri: 29195, ispanici: 6562, asiatici: 2612, uomini: 165508, donne: 80555};
 		var DIST14_fermi = {id: "DIST14_fermi", totale: 96920, bianchi: 89400, neri: 4833, ispanici: 2052, asiatici: 635, uomini: 64481, donne: 32528};
-		var DIST15_fermi = {id: "DIST15_fermi", totale: 90135, bianchi: 60394, neri: 14682, ispanici: 5412, asiatici: 1643, uomini: 139552, donne: 41190};
+		var DIST15_fermi = {id: "DIST15_fermi", totale: 90135, bianchi: 60394, neri: 14682, ispanici: 5412, asiatici: 1643, uomini: 50552, donne: 41190};
 		var DIST16_fermi = {id: "DIST16_fermi", totale: 141978, bianchi: 115115, neri: 15262, ispanici: 9007, asiatici: 2594, uomini: 96535, donne: 45746};
 		var DIST17_fermi = {id: "DIST17_fermi", totale: 128992, bianchi: 105809, neri: 11890, ispanici: 9013, asiatici: 2280, uomini: 90111, donne: 39059};
 		var DIST18_fermi = {id: "DIST18_fermi", totale: 155197, bianchi: 136320, neri: 12746, ispanici: 3823, asiatici: 2308, uomini: 104707, donne: 50760};
