@@ -21,4 +21,4 @@ E' inoltre possibile cambiare la scala cromatica utilizzata e passare ad una vis
 
 Per la scelta dei colori, delle animazioni ecc. si è tenuto conto delle nozioni apprese durante il corso di "Visualizzazione delle Informazioni" dell'Università degli Studi Roma Tre tenuto dal Professor Patrignani.
 
-E' possibile visualizzare l'interfaccia direttamente da https://cdn.rawgit.com/blackjack-ad/InfoVis/36df1e4d/Progetto%20Illinois/InfoVis_Illinois.html senza dover scaricare il progetto in locale.
+E' possibile visualizzare l'interfaccia direttamente da https://rawgit.com/blackjack-ad/InfoVis/master/Progetto%20Illinois/InfoVis_Illinois.html senza dover scaricare il progetto in locale.
